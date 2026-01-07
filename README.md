@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (6599 workflows)
+## 📚 Workflows Summary (6600 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -3275,6 +3275,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Email Newsletter System with SendGrid, Google Sheets & Freemium Rate Limiting-11759](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Email%20Newsletter%20System%20with%20SendGrid%2C%20Google%20Sheets%20%26%20Freemium%20Rate%20Limiting-11759)
 - [Email Notifications to Telegram using Temporary HTML URL Hosting via GitHub Gist-2080](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Email%20Notifications%20to%20Telegram%20using%20Temporary%20HTML%20URL%20Hosting%20via%20GitHub%20Gist-2080)
 - [Email parser For RAG agent Powered by Gmail and Mem0-7150](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Email%20parser%20For%20RAG%20agent%20Powered%20by%20Gmail%20and%20Mem0-7150)
+- [Email reports on expiring Microsoft Entra ID app secrets and certificates with Microsoft Graph-12399](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Email%20reports%20on%20expiring%20Microsoft%20Entra%20ID%20app%20secrets%20and%20certificates%20with%20Microsoft%20Graph-12399)
 - [Email Subscription Service with n8n Forms, Airtable and AI-2618](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Email%20Subscription%20Service%20with%20n8n%20Forms%2C%20Airtable%20and%20AI-2618)
 - [Email Summary Agent -2722](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Email%20Summary%20Agent%20-2722)
 - [Email to Notion Knowledge Base with IMAP, Postgres Dedup and Telegram Alert-7385](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Email%20to%20Notion%20Knowledge%20Base%20with%20IMAP%2C%20Postgres%20Dedup%20and%20Telegram%20Alert-7385)
