@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (9164 workflows)
+## 📚 Workflows Summary (9165 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -7351,6 +7351,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Score inbound B2B leads with OpenAI GPT-5.4 using Tally and Google Sheets-15059](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Score%20inbound%20B2B%20leads%20with%20OpenAI%20GPT-5.4%20using%20Tally%20and%20Google%20Sheets-15059)
 - [Score inbound leads with Claude and route HubSpot lifecycle stages-16011](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Score%20inbound%20leads%20with%20Claude%20and%20route%20HubSpot%20lifecycle%20stages-16011)
 - [Score job applications and write AI feedback with OpenAI and Notion-12323](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Score%20job%20applications%20and%20write%20AI%20feedback%20with%20OpenAI%20and%20Notion-12323)
+- [Score leads and send WhatsApp proposals with Gemini, HighLevel and Apify-16173](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Score%20leads%20and%20send%20WhatsApp%20proposals%20with%20Gemini%2C%20HighLevel%20and%20Apify-16173)
 - [Score LinkedIn leads against your ICP with Google Sheets, SourceGeek and Gemini-13026](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Score%20LinkedIn%20leads%20against%20your%20ICP%20with%20Google%20Sheets%2C%20SourceGeek%20and%20Gemini-13026)
 - [Score LinkedIn Profiles Against Your ICP with Airtop-4205](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Score%20LinkedIn%20Profiles%20Against%20Your%20ICP%20with%20Airtop-4205)
 - [Score macro news impact with Groq, SerpAPI, Google Sheets and Gmail-15671](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Score%20macro%20news%20impact%20with%20Groq%2C%20SerpAPI%2C%20Google%20Sheets%20and%20Gmail-15671)
