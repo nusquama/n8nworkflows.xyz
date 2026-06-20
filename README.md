@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (9423 workflows)
+## 📚 Workflows Summary (9426 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -5835,6 +5835,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Ideal Customer Profile (ICP) Generation: AI, Firecrawl, Gemini, Telegram-5047](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Ideal%20Customer%20Profile%20(ICP)%20Generation%3A%20AI%2C%20Firecrawl%2C%20Gemini%2C%20Telegram-5047)
 - [Identify and notify WooCommerce VIP customers with Airtable and Slack-12370](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Identify%20and%20notify%20WooCommerce%20VIP%20customers%20with%20Airtable%20and%20Slack-12370)
 - [Identify buying-intent leads on Twitter and Instagram with Slack and Notion CRM-12600](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Identify%20buying-intent%20leads%20on%20Twitter%20and%20Instagram%20with%20Slack%20and%20Notion%20CRM-12600)
+- [Identify company decision makers with Coresignal and Google Sheets-16415](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Identify%20company%20decision%20makers%20with%20Coresignal%20and%20Google%20Sheets-16415)
 - [Identify competitor content gaps across ChatGPT, Perplexity & Gemini with SE Ranking-11929](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Identify%20competitor%20content%20gaps%20across%20ChatGPT%2C%20Perplexity%20%26%20Gemini%20with%20SE%20Ranking-11929)
 - [Identify creators in Salesforce loyalty contacts with Influencers Club, GPT-4o-mini and SendGrid-13494](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Identify%20creators%20in%20Salesforce%20loyalty%20contacts%20with%20Influencers%20Club%2C%20GPT-4o-mini%20and%20SendGrid-13494)
 - [Identify influencer attendees from Eventbrite with influencers.club, OpenAI and SendGrid-13495](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Identify%20influencer%20attendees%20from%20Eventbrite%20with%20influencers.club%2C%20OpenAI%20and%20SendGrid-13495)
@@ -6129,6 +6130,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Manage Google Calendar events with GPT‑4 and an AI assistant-13734](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Manage%20Google%20Calendar%20events%20with%20GPT%E2%80%914%20and%20an%20AI%20assistant-13734)
 - [Manage Google Calendar Events with Natural Language Using Gemini 1.5 Flash-5165](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Manage%20Google%20Calendar%20Events%20with%20Natural%20Language%20Using%20Gemini%201.5%20Flash-5165)
 - [Manage Google Calendar Events with OpenAI Assistant (Get, Create, Delete)-7787](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Manage%20Google%20Calendar%20Events%20with%20OpenAI%20Assistant%20(Get%2C%20Create%2C%20Delete)-7787)
+- [Manage Google Calendar events with Zalo Bot, OpenAI and Gemini-16440](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Manage%20Google%20Calendar%20events%20with%20Zalo%20Bot%2C%20OpenAI%20and%20Gemini-16440)
 - [Manage Google Calendar via Telegram and get daily AI briefings (OpenAI + Gemini)-13309](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Manage%20Google%20Calendar%20via%20Telegram%20and%20get%20daily%20AI%20briefings%20(OpenAI%20%2B%20Gemini)-13309)
 - [Manage Google Calendar via WhatsApp with GPT-4 Virtual Assistant-5368](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Manage%20Google%20Calendar%20via%20WhatsApp%20with%20GPT-4%20Virtual%20Assistant-5368)
 - [Manage Google Cloud Storage with AI Image Generation using GPT-4 Mini-7502](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Manage%20Google%20Cloud%20Storage%20with%20AI%20Image%20Generation%20using%20GPT-4%20Mini-7502)
@@ -6839,6 +6841,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Predict airport queue wait times and email alerts with OpenAI and SendGrid-16185](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Predict%20airport%20queue%20wait%20times%20and%20email%20alerts%20with%20OpenAI%20and%20SendGrid-16185)
 - [Predict and Forecast HDB Flat Prices with GPT-4o and Google Sheets Analytics-10891](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Predict%20and%20Forecast%20HDB%20Flat%20Prices%20with%20GPT-4o%20and%20Google%20Sheets%20Analytics-10891)
 - [Predict churn risk and trigger retention actions with OpenAI and Google Sheets-15198](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Predict%20churn%20risk%20and%20trigger%20retention%20actions%20with%20OpenAI%20and%20Google%20Sheets-15198)
+- [Predict competitor ad launch cycles with Adyntel, OpenAI, and Google Sheets-16306](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Predict%20competitor%20ad%20launch%20cycles%20with%20Adyntel%2C%20OpenAI%2C%20and%20Google%20Sheets-16306)
 - [Predict construction delays with Claude, OpenWeather and Slack alerts-13687](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Predict%20construction%20delays%20with%20Claude%2C%20OpenWeather%20and%20Slack%20alerts-13687)
 - [Predict customer churn daily using ML or LLM models and notify via Slack/email-13726](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Predict%20customer%20churn%20daily%20using%20ML%20or%20LLM%20models%20and%20notify%20via%20Slack%2Femail-13726)
 - [Predict Customer Churn Risk & Create Interventions with GPT-4, Zendesk & HubSpot-7344](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Predict%20Customer%20Churn%20Risk%20%26%20Create%20Interventions%20with%20GPT-4%2C%20Zendesk%20%26%20HubSpot-7344)
