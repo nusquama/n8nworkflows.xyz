@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (9433 workflows)
+## 📚 Workflows Summary (9434 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -9073,6 +9073,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Validate property documents with Claude (Anthropic), Google Drive and Slack-13688](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Validate%20property%20documents%20with%20Claude%20(Anthropic)%2C%20Google%20Drive%20and%20Slack-13688)
 - [Validate QR tickets in real time with Google Forms and Sheets-14431](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Validate%20QR%20tickets%20in%20real%20time%20with%20Google%20Forms%20and%20Sheets-14431)
 - [Validate shipments & generate freight documents with GPT-4o, Google Sheets & Drive-11913](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Validate%20shipments%20%26%20generate%20freight%20documents%20with%20GPT-4o%2C%20Google%20Sheets%20%26%20Drive-11913)
+- [Validate startup ideas with Google Gemini, Groq, and Gmail-16513](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Validate%20startup%20ideas%20with%20Google%20Gemini%2C%20Groq%2C%20and%20Gmail-16513)
 - [Validate student progress and orchestrate interventions with Claude and email-13156](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Validate%20student%20progress%20and%20orchestrate%20interventions%20with%20Claude%20and%20email-13156)
 - [Validate TOTP Token (without creating a credential)-2379](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Validate%20TOTP%20Token%20(without%20creating%20a%20credential)-2379)
 - [Validate, deduplicate, and store customers via API with Supabase, Slack, Telegram, and email-12366](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Validate%2C%20deduplicate%2C%20and%20store%20customers%20via%20API%20with%20Supabase%2C%20Slack%2C%20Telegram%2C%20and%20email-12366)
