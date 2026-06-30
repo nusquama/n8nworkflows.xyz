@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (9476 workflows)
+## 📚 Workflows Summary (9478 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -3589,6 +3589,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Create Secure Human-in-the-Loop Approval Flows with Postgres and Telegram-9039](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20Secure%20Human-in-the-Loop%20Approval%20Flows%20with%20Postgres%20and%20Telegram-9039)
 - [Create Secure Interactive Applications with WhatsApp Flows End-to-End Encryption-3973](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20Secure%20Interactive%20Applications%20with%20WhatsApp%20Flows%20End-to-End%20Encryption-3973)
 - [Create SEO blog drafts in WordPress from trending topics with Perplexity and HuggingFace-12386](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20SEO%20blog%20drafts%20in%20WordPress%20from%20trending%20topics%20with%20Perplexity%20and%20HuggingFace-12386)
+- [Create SEO blog posts from YouTube videos with Gemini and Google Docs-16652](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20SEO%20blog%20posts%20from%20YouTube%20videos%20with%20Gemini%20and%20Google%20Docs-16652)
 - [Create SEO blog posts with Gemini, DeepSeek and publish to WordPress-13028](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20SEO%20blog%20posts%20with%20Gemini%2C%20DeepSeek%20and%20publish%20to%20WordPress-13028)
 - [Create SEO Outlines from Top Google Results with SerpAPI and GPT-4o-9056](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20SEO%20Outlines%20from%20Top%20Google%20Results%20with%20SerpAPI%20and%20GPT-4o-9056)
 - [Create SEO-optimised content from Google Sheets keywords with DataForSEO and Ollama-14999](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20SEO-optimised%20content%20from%20Google%20Sheets%20keywords%20with%20DataForSEO%20and%20Ollama-14999)
@@ -8643,6 +8644,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Track expenses and income in Google Sheets from Telegram with Google Gemini-13557](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20expenses%20and%20income%20in%20Google%20Sheets%20from%20Telegram%20with%20Google%20Gemini-13557)
 - [Track Expenses Automatically with Telegram Bot using GPT-4o, OCR and Voice Recognition-11368](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20Expenses%20Automatically%20with%20Telegram%20Bot%20using%20GPT-4o%2C%20OCR%20and%20Voice%20Recognition-11368)
 - [Track Expenses by Parsing Telegram Transaction Messages to Google Sheets-4395](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20Expenses%20by%20Parsing%20Telegram%20Transaction%20Messages%20to%20Google%20Sheets-4395)
+- [Track expenses from phone notifications with Google Gemini and Google Sheets-16520](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20expenses%20from%20phone%20notifications%20with%20Google%20Gemini%20and%20Google%20Sheets-16520)
 - [Track Expenses from Receipt Photos with AI, Google Sheets & Slack Reports-10970](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20Expenses%20from%20Receipt%20Photos%20with%20AI%2C%20Google%20Sheets%20%26%20Slack%20Reports-10970)
 - [Track Expenses from Receipt Photos with Telegram & Google Sheets using OCR.space-6686](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20Expenses%20from%20Receipt%20Photos%20with%20Telegram%20%26%20Google%20Sheets%20using%20OCR.space-6686)
 - [Track Expenses from Telegram to Google Sheets with GPT-4.1 Mini-6970](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Track%20Expenses%20from%20Telegram%20to%20Google%20Sheets%20with%20GPT-4.1%20Mini-6970)
