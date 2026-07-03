@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (9575 workflows)
+## 📚 Workflows Summary (9577 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -811,6 +811,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Audit Confluence space permissions and public links for compliance-12239](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Audit%20Confluence%20space%20permissions%20and%20public%20links%20for%20compliance-12239)
 - [Audit connected integrations and email pricing & limits report with n8n API, Claude and Gmail-14125](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Audit%20connected%20integrations%20and%20email%20pricing%20%26%20limits%20report%20with%20n8n%20API%2C%20Claude%20and%20Gmail-14125)
 - [Audit contract governance risk with OpenAI, Slack and email routing-13683](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Audit%20contract%20governance%20risk%20with%20OpenAI%2C%20Slack%20and%20email%20routing-13683)
+- [Audit Google Drive backup freshness with Google Sheets and Slack-16701](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Audit%20Google%20Drive%20backup%20freshness%20with%20Google%20Sheets%20and%20Slack-16701)
 - [Audit Google Drive File Permissions for Access Control Management-3549](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Audit%20Google%20Drive%20File%20Permissions%20for%20Access%20Control%20Management-3549)
 - [Audit Interview Feedback & Report via Slack with GPT-4o-mini and Google Sheets-9139](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Audit%20Interview%20Feedback%20%26%20Report%20via%20Slack%20with%20GPT-4o-mini%20and%20Google%20Sheets-9139)
 - [Audit multi-page CRO with GPT-4o-mini, Google Sheets, and Gmail alerts-15126](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Audit%20multi-page%20CRO%20with%20GPT-4o-mini%2C%20Google%20Sheets%2C%20and%20Gmail%20alerts-15126)
@@ -3905,6 +3906,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Detect churn risk from competitor tech adoption using PredictLeads and Gmail-14882](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Detect%20churn%20risk%20from%20competitor%20tech%20adoption%20using%20PredictLeads%20and%20Gmail-14882)
 - [Detect client portfolio news impact with Gemini AI, Gmail, and Google Sheets-15277](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Detect%20client%20portfolio%20news%20impact%20with%20Gemini%20AI%2C%20Gmail%2C%20and%20Google%20Sheets-15277)
 - [Detect cloud cost spikes with Google Sheets, Slack, Gmail, and Jira-16198](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Detect%20cloud%20cost%20spikes%20with%20Google%20Sheets%2C%20Slack%2C%20Gmail%2C%20and%20Jira-16198)
+- [Detect competitor product launch signals from ads with OpenAI and Google Sheets-16371](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Detect%20competitor%20product%20launch%20signals%20from%20ads%20with%20OpenAI%20and%20Google%20Sheets-16371)
 - [Detect competitor product launches from ads with Google Sheets and OpenAI-16307](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Detect%20competitor%20product%20launches%20from%20ads%20with%20Google%20Sheets%20and%20OpenAI-16307)
 - [Detect competitor tech adoption and notify AEs with PredictLeads, Sheets and Gmail-14098](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Detect%20competitor%20tech%20adoption%20and%20notify%20AEs%20with%20PredictLeads%2C%20Sheets%20and%20Gmail-14098)
 - [Detect content decay from Google Search Console and alert via Slack and email-13838](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Detect%20content%20decay%20from%20Google%20Search%20Console%20and%20alert%20via%20Slack%20and%20email-13838)
