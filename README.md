@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (9577 workflows)
+## 📚 Workflows Summary (9582 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -541,6 +541,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Airtable Base Backups to S3-4302](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Airtable%20Base%20Backups%20to%20S3-4302)
 - [Airtable Batch Update / Insert rows (send faster + save API call requests)-3394](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Airtable%20Batch%20Update%20%2F%20Insert%20rows%20(send%20faster%20%2B%20save%20API%20call%20requests)-3394)
 - [Airtable Order Status Change to SMS Notifications with Twilio-8682](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Airtable%20Order%20Status%20Change%20to%20SMS%20Notifications%20with%20Twilio-8682)
+- [Alert on API contract drift using Data Tables and Slack-16699](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Alert%20on%20API%20contract%20drift%20using%20Data%20Tables%20and%20Slack-16699)
 - [Alert on Equipment Health Issues with Google Sheets and MS Teams Integration-6958](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Alert%20on%20Equipment%20Health%20Issues%20with%20Google%20Sheets%20and%20MS%20Teams%20Integration-6958)
 - [All-in-One Telegram/Baserow AI Assistant 🤖🧠 Voice/Photo/Save Notes/Long Term Mem-2986](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/All-in-One%20Telegram%2FBaserow%20AI%20Assistant%20%F0%9F%A4%96%F0%9F%A7%A0%20Voice%2FPhoto%2FSave%20Notes%2FLong%20Term%20Mem-2986)
 - [Allow AI Agents to access User & Workitem operations - Kitemaker Tool MCP Server-5236](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Allow%20AI%20Agents%20to%20access%20User%20%26%20Workitem%20operations%20-%20Kitemaker%20Tool%20MCP%20Server-5236)
@@ -2415,6 +2416,7 @@ Each workflow folder contains **exactly 4 files**:
 - [B2B Lead Follow-up Automation with Gemini AI, Gmail and Google Sheets-11283](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/B2B%20Lead%20Follow-up%20Automation%20with%20Gemini%20AI%2C%20Gmail%20and%20Google%20Sheets-11283)
 - [B2B lead qualification-5404](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/B2B%20lead%20qualification-5404)
 - [B2B Outreach Automation: LinkedIn to Email Sequence with GPT, AnyMailFinder & Perplexity-7929](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/B2B%20Outreach%20Automation%3A%20LinkedIn%20to%20Email%20Sequence%20with%20GPT%2C%20AnyMailFinder%20%26%20Perplexity-7929)
+- [Back up and restore Docker workflows and credentials with Google Drive and SSH-16669](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Back%20up%20and%20restore%20Docker%20workflows%20and%20credentials%20with%20Google%20Drive%20and%20SSH-16669)
 - [Back up and restore n8n Docker workflows and credentials with GitHub and SSH-16191](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Back%20up%20and%20restore%20n8n%20Docker%20workflows%20and%20credentials%20with%20GitHub%20and%20SSH-16191)
 - [Back up and restore n8n workflows with GitHub sync-12721](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Back%20up%20and%20restore%20n8n%20workflows%20with%20GitHub%20sync-12721)
 - [Back up databases and files to Box with Mailgun email notifications-13260](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Back%20up%20databases%20and%20files%20to%20Box%20with%20Mailgun%20email%20notifications-13260)
@@ -4034,6 +4036,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Draft AI-powered Help Scout replies with HubSpot and SMS customer 360 context-15228](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20AI-powered%20Help%20Scout%20replies%20with%20HubSpot%20and%20SMS%20customer%20360%20context-15228)
 - [Draft and approve client portfolio emails with Gemini, Sheets, Slack and Gmail-15204](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20and%20approve%20client%20portfolio%20emails%20with%20Gemini%2C%20Sheets%2C%20Slack%20and%20Gmail-15204)
 - [Draft and manage academic research papers with GPT-4 and Pinecone-12730](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20and%20manage%20academic%20research%20papers%20with%20GPT-4%20and%20Pinecone-12730)
+- [Draft and review SEO WordPress articles with multi-agent LLMs and Slack-16554](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20and%20review%20SEO%20WordPress%20articles%20with%20multi-agent%20LLMs%20and%20Slack-16554)
 - [Draft and revise technical articles with OpenRouter in a content pipeline-15952](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20and%20revise%20technical%20articles%20with%20OpenRouter%20in%20a%20content%20pipeline-15952)
 - [Draft and send AI customer support email replies with Gmail and Google Sheets-14038](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20and%20send%20AI%20customer%20support%20email%20replies%20with%20Gmail%20and%20Google%20Sheets-14038)
 - [Draft consulting proposals from client URLs with Anthropic and Gemini-15894](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20consulting%20proposals%20from%20client%20URLs%20with%20Anthropic%20and%20Gemini-15894)
@@ -6688,6 +6691,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Notify on server restarts with Discord, Telegram, and Slack alerts-16667](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Notify%20on%20server%20restarts%20with%20Discord%2C%20Telegram%2C%20and%20Slack%20alerts-16667)
 - [Notify on Slack when new product is added in WooCommerce-1458](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Notify%20on%20Slack%20when%20new%20product%20is%20added%20in%20WooCommerce-1458)
 - [Notify Redmine project members in Slack about teammates’ approved Odoo leave-12298](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Notify%20Redmine%20project%20members%20in%20Slack%20about%20teammates%E2%80%99%20approved%20Odoo%20leave-12298)
+- [Notify Slack about Figma library publishes, comments and deletions-16697](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Notify%20Slack%20about%20Figma%20library%20publishes%2C%20comments%20and%20deletions-16697)
 - [Notify Users When Features Ship with Semantic Search from Tally to Gmail-11369](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Notify%20Users%20When%20Features%20Ship%20with%20Semantic%20Search%20from%20Tally%20to%20Gmail-11369)
 - [Notion AI Summary & Tags-4431](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Notion%20AI%20Summary%20%26%20Tags-4431)
 - [Notion API MCP Server-5655](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Notion%20API%20MCP%20Server-5655)
@@ -7422,6 +7426,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Rewrite web content with exact character counts using GPT-4.1 and Google Sheets-13268](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Rewrite%20web%20content%20with%20exact%20character%20counts%20using%20GPT-4.1%20and%20Google%20Sheets-13268)
 - [Role-Based Access Control (RBAC) for Telegram Automations-10171](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Role-Based%20Access%20Control%20(RBAC)%20for%20Telegram%20Automations-10171)
 - [Role-Based LinkedIn Profile Discovery with Google Search for OSINT and Red Teams-6508](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Role-Based%20LinkedIn%20Profile%20Discovery%20with%20Google%20Search%20for%20OSINT%20and%20Red%20Teams-6508)
+- [Roll overdue Notion tasks forward and flag stale ones on a schedule-16802](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Roll%20overdue%20Notion%20tasks%20forward%20and%20flag%20stale%20ones%20on%20a%20schedule-16802)
 - [Route AI prompts between Anthropic, Google Gemini, Mistral and OpenAI-16330](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Route%20AI%20prompts%20between%20Anthropic%2C%20Google%20Gemini%2C%20Mistral%20and%20OpenAI-16330)
 - [Route AI queries cost‑efficiently with GPT‑4o‑mini, GPT‑4o and confidence scoring-13966](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Route%20AI%20queries%20cost%E2%80%91efficiently%20with%20GPT%E2%80%914o%E2%80%91mini%2C%20GPT%E2%80%914o%20and%20confidence%20scoring-13966)
 - [Route AI tasks between Anthropic Claude models with Postgres policies and SLA-14039](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Route%20AI%20tasks%20between%20Anthropic%20Claude%20models%20with%20Postgres%20policies%20and%20SLA-14039)
