@@ -79,7 +79,7 @@ Each workflow folder contains **exactly 4 files**:
 
 
 
-## 📚 Workflows Summary (9635 workflows)
+## 📚 Workflows Summary (9637 workflows)
 
 - [ AI Client Onboarding Agent: Auto Welcome Email Generator-4448](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Client%20Onboarding%20Agent%3A%20Auto%20Welcome%20Email%20Generator-4448)
 - [ AI Data Analyst Agent for Spreadsheets with NocoDB-2653](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/%20AI%20Data%20Analyst%20Agent%20for%20Spreadsheets%20with%20NocoDB-2653)
@@ -3640,6 +3640,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Create Stunning AI Images Directly from WhatsApp with Gemini-6242](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20Stunning%20AI%20Images%20Directly%20from%20WhatsApp%20with%20Gemini-6242)
 - [Create Stunning CGI Videos with Sora 2 API and Google Drive Integration-10861](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20Stunning%20CGI%20Videos%20with%20Sora%202%20API%20and%20Google%20Drive%20Integration-10861)
 - [Create Stylized Product Photography with Airtable & Gemini Nano Banana-10250](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20Stylized%20Product%20Photography%20with%20Airtable%20%26%20Gemini%20Nano%20Banana-10250)
+- [Create talking avatar TikTok videos with Seedance, OpenAI and Blotato-16939](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20talking%20avatar%20TikTok%20videos%20with%20Seedance%2C%20OpenAI%20and%20Blotato-16939)
 - [Create Talking Avatar Videos with Elevenlabs & Infinitalk and Auto-Post to TikTok-8378](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20Talking%20Avatar%20Videos%20with%20Elevenlabs%20%26%20Infinitalk%20and%20Auto-Post%20to%20TikTok-8378)
 - [Create Telegram podcast digests from Apple Podcasts with BrowserAct and Gemini-12434](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20Telegram%20podcast%20digests%20from%20Apple%20Podcasts%20with%20BrowserAct%20and%20Gemini-12434)
 - [Create Text Transcripts from Audio using Canary Qwen 2.5B and Replicate-6859](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Create%20Text%20Transcripts%20from%20Audio%20using%20Canary%20Qwen%202.5B%20and%20Replicate-6859)
@@ -4047,6 +4048,7 @@ Each workflow folder contains **exactly 4 files**:
 - [Draft and review SEO WordPress articles with multi-agent LLMs and Slack-16554](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20and%20review%20SEO%20WordPress%20articles%20with%20multi-agent%20LLMs%20and%20Slack-16554)
 - [Draft and revise technical articles with OpenRouter in a content pipeline-15952](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20and%20revise%20technical%20articles%20with%20OpenRouter%20in%20a%20content%20pipeline-15952)
 - [Draft and send AI customer support email replies with Gmail and Google Sheets-14038](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20and%20send%20AI%20customer%20support%20email%20replies%20with%20Gmail%20and%20Google%20Sheets-14038)
+- [Draft bookkeeping entries from Trello cards with OpenRouter and Xero-16787](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20bookkeeping%20entries%20from%20Trello%20cards%20with%20OpenRouter%20and%20Xero-16787)
 - [Draft consulting proposals from client URLs with Anthropic and Gemini-15894](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20consulting%20proposals%20from%20client%20URLs%20with%20Anthropic%20and%20Gemini-15894)
 - [Draft daily crypto news tweets with CryptoPanic, Google, GPT‑4o and Gmail-11960](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20daily%20crypto%20news%20tweets%20with%20CryptoPanic%2C%20Google%2C%20GPT%E2%80%914o%20and%20Gmail-11960)
 - [Draft Gmail replies with OpenAI and OpenRouter for an inbox-zero workflow-13203](https://github.com/nusquama/n8nworkflows.xyz/tree/main/workflows/Draft%20Gmail%20replies%20with%20OpenAI%20and%20OpenRouter%20for%20an%20inbox-zero%20workflow-13203)
